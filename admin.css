@@ -1,0 +1,21 @@
+.admin-table {
+  padding-top: 80px;
+  text-align: center;
+  margin: auto;
+  width: 95%;
+}
+
+.table {
+  margin: 25px;
+}
+
+.table-box {
+  border: solid 1px #313e50;
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.table-title {
+  background-color: #313e50;
+  color: #FFFFFF;
+  padding: 5px;
+}

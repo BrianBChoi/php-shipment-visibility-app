@@ -1,0 +1,11 @@
+.navbar {
+  z-index: 1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #27313f;
+  color: #c5cfd9;
+  text-align: right;
+  font-size: 12px;
+}

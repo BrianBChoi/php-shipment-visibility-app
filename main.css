@@ -1,0 +1,34 @@
+.date-search-form {
+  margin-left: 25px;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  display: inline-block;
+  float: left;
+}
+
+.main-table {
+  padding-top: 50px;
+  text-align: center;
+  margin: auto;
+  width: 95%;
+}
+
+.padding-10 {
+  width: 10px;
+  display: inline-block;
+}
+
+.table {
+  margin: 25px;
+}
+
+.table-box {
+  border: solid 1px #313e50;
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.table-title {
+  background-color: #313e50;
+  color: #FFFFFF;
+  padding: 5px;
+}
